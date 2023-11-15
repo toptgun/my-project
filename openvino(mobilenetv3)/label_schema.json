@@ -1,0 +1,54 @@
+{
+    "label_tree": {
+        "type": "tree",
+        "directed": true,
+        "nodes": [
+            "0",
+            "1"
+        ],
+        "edges": []
+    },
+    "label_groups": [
+        {
+            "_id": "654a00a5fd6bd7d7b9c9e7e7",
+            "name": "labels",
+            "label_ids": [
+                "0",
+                "1"
+            ],
+            "relation_type": "EXCLUSIVE"
+        }
+    ],
+    "all_labels": {
+        "0": {
+            "_id": "0",
+            "name": "failed",
+            "color": {
+                "red": 141,
+                "green": 196,
+                "blue": 3,
+                "alpha": 255
+            },
+            "hotkey": "",
+            "domain": "CLASSIFICATION",
+            "creation_date": "2023-11-07T09:17:25.855000",
+            "is_empty": false,
+            "is_anomalous": false
+        },
+        "1": {
+            "_id": "1",
+            "name": "sucess",
+            "color": {
+                "red": 217,
+                "green": 52,
+                "blue": 201,
+                "alpha": 255
+            },
+            "hotkey": "",
+            "domain": "CLASSIFICATION",
+            "creation_date": "2023-11-07T09:17:25.855000",
+            "is_empty": false,
+            "is_anomalous": false
+        }
+    }
+}
